@@ -1,0 +1,14 @@
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.exe
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.deps.json
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.runtimeconfig.json
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.dll
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\bin\Debug\net6.0\NewTalents.pdb
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.dll
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\refint\NewTalents.dll
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.pdb
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
+C:\Users\esomg\OneDrive\Documentos\Projetos\Cursos\NewTalents\NewTalents\obj\Debug\net6.0\ref\NewTalents.dll
